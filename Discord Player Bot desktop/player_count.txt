@@ -1,0 +1,5 @@
+Beyonder1,Console,Vip
+Beyonder2,Console,SilverVip
+Beyonder3,Player,SilverVip
+Beyonder4,Player,None
+Beyonder5,Console,Vip

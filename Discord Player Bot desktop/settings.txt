@@ -1,0 +1,8 @@
+token,MTEzMDU3MjYwOTc4OTEwNDI3OQ.GqM4r1.nUylXrxXHKYG_aQQAJTUvuBqN4ax4XmsT5JFmU
+staffs,Console,Kurucu,Admin
+vips,BronzeVip,GoldVip,SilverVip
+player_list_file_way,player_count.txt
+guild_id,1130574339188740217
+channel_id,1130574339813679199
+server_logo,https://cdn.discordapp.com/attachments/992856418363375766/1124319215902543892/98df0772e5aa4ceeee7e3494d66b0d62.png
+max_player_count,1967
