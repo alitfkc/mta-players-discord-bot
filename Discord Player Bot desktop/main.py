@@ -3,7 +3,7 @@
 TOKEN = ''
 guild_id =  0 # Mesajı göndereceğiniz sunucunun ID'si
 channel_id = 0  # Mesajı göndereceğiniz kanalın ID'si
-server_name = "Hane Gaming"
+server_name = "Meta Gaming"
 server_logo = ""
 max_count = 0
 try:
