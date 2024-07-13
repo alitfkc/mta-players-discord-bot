@@ -31,7 +31,7 @@ function startFunc()
     end
     writeToFile("player_count.txt",text)
 end
-setElementData(getPlayerFromName("Beyonder"),"ata:acl_name","Console")
+
 addEventHandler("onResourceStart",resourceRoot,startFunc)
 
 --------------------------------------------------
